@@ -1,0 +1,6 @@
+Method,50 epoch,1 minute,50 epochs avg,1 minute avg
+GA,7.604,2.178,10.225,3.59
+PSO,3.007,1.99,4.298,4.676
+PSO with GA parameters,0.655,0.719,1.819,0.938
+PSO with GA individuals,2.993,1.99,2.75,1.592
+PSO with GA alternating,0.995,0.995,2.288,1.094
